@@ -1,0 +1,13 @@
+# Node / React
+frontend/node_modules/
+frontend/dist/
+
+# Java / Spring Boot
+backend/target/
+backend/.mvn/
+
+# Variables de entorno y configuraciones
+.env
+.idea/
+.vscode/
+*.log
